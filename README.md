@@ -17,4 +17,6 @@ day8:1)OrangeHRM login
 ✅ working with browser windows and alerts
 ✅ Automating login and register workflows for real time applications.
 
+📌To check code go to src/test.java
+  
  
