@@ -9,7 +9,7 @@ day5:Navigational commands(different approached)
 day6:Handling multiple browsers
 day7:Handling checkboxes(all specific,multiple)
 day8:1)OrangeHRM login
-      2)Nopcommerce registration functionality
+      2)Nopcommerce registration functionality.
 
 📝 Skills 
 ✅ writing and executing automation test cases using java+selenium
